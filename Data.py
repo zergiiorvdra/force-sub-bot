@@ -6,10 +6,10 @@ from pyrogram.types import InlineKeyboardButton
 
 class Data:
     HELP = """
-<b> ❏ Perintah untuk Pengguna BOT
- ├ /start - Mulai Bot
- ├ /about - Tentang Bot ini
- ├ /help - Bantuan Perintah Bot ini
+<b> Perintah untuk Pengguna BOT
+ - /start - Mulai Bot
+ - /about - Tentang Bot ini
+ - /help - Bantuan Perintah Bot ini
 
 
 👨‍💻 Organized by </b><a href='https://t.me/CTVASELOLE'>@CTVASELOLE</a>
@@ -39,8 +39,6 @@ class Data:
 @{} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat Diakses melalui Link Khusus.
 
  • Creator: @{}
- • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
- • Source Code: <a href='https://github.com/mrismanaziz/File-Sharing-Man'>File-Sharing-Man v4</a>
-
+ 
 👨‍💻 Organized by </b><a href='https://t.me/CTVASELOLE'>@CTVASELOLE</a>
 """
