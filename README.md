@@ -1,4 +1,4 @@
-# File-Sharing-Man
+# Force-Sub-Bot
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.
@@ -12,7 +12,6 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 ```
 
 ### Features
-- Sepenuhnya dapat dicustom.
 - Dapat di-deploy di heroku & vps.
 - Pesan sambutan & Forcesub yang dapat dicustom.
 - Lebih dari satu Posting dalam Satu Link (batch).
