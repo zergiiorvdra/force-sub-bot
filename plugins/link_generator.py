@@ -96,13 +96,13 @@ async def link_generator(client: Client, message: Message):
         [
             [
                 InlineKeyboardButton(
-                    "🔁 Nih Link mu Bes", url=f"https://telegram.me/share/url?url={link}"
+                    "🔁 Nih Link mu Bes Pencet Aja", url=f"https://telegram.me/share/url?url={link}"
                 )
             ]
         ]
     )
     await channel_message.reply_text(
-        f"<b>Link Sharing File Berhasil Di Buat:</b>\n\n{link}",
+        f"<b>Link Sharing Mu Berhasil Di Buat Bes:</b>\n\n{link}",
         quote=True,
         reply_markup=reply_markup,
     )
